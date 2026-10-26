@@ -4,7 +4,7 @@ terraform {
     organization = "devops-franco"
 
     workspaces {
-      name = "lab-t05-10-01"
+      name = "lab-terraform-cloud-t05"
     }
   }
 
